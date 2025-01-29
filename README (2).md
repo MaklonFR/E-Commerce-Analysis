@@ -1,9 +1,9 @@
-# Dicoding Collection Dashboard ✨
+# Proyek Analisis Data E-Commerce
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
+conda create --name main-dashboard python=3.8.20
+conda activate main-dashboard
 pip install -r requirements.txt
 ```
 
@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run e-dashboard.py
 ```
